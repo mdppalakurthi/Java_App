@@ -1,0 +1,53 @@
+.logoQuicklinks{min-height: 100px;
+				background-color:thistle;
+				margin:5px -15px 5px -15px;
+				}
+
+.headin{min-height: 100px;
+				background-color: #e4e4e4;
+				margin:5px -10px 5px -10px;
+				}
+
+.navBar{min-height: 760px;
+		margin:0px -15px 5px -15px;
+	}
+
+.forNav{width:9.9%;height:750px;
+         float: left;
+}
+nav ul li {font-size:20px; list-style: none; 
+        text-align: left; margin-left: -41px; margin-top: 45px;
+}
+
+nav ul li a:link {
+         
+    padding: 8px 51px 8px 53px;    
+    text-decoration: none;
+    color: black;
+}
+
+nav ul li a:visited {
+    color:black;
+}
+
+nav ul li a:hover {
+    background-color:chartreuse;
+    color: black;
+}
+
+nav ul li a:active {
+    color: blue;
+}
+
+table {
+    font-size:20px;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    
+}
+
+td, th {
+    
+    text-align: left;
+    padding: 8px;
+}
